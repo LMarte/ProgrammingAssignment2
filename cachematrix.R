@@ -1,4 +1,4 @@
-## These functions will create a special matrix object wich caches its inverse upon its first calculation
+## These functions will create a special matrix object which caches its inverse with its first calculation
 
 
 ## This function creates the CacheMatrix object with its methods
